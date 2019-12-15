@@ -1,3 +1,8 @@
+//Assignment 1a
+//Author: Himika Dastidar
+// Find the maximum of the function -2x^3 -22 x^2 +11x + 57 in the domain of -10 to 4
+
+
 prtx:       .string "The value of x: %4d, y: %4d, max: %4d\n" 
 
             .global main
